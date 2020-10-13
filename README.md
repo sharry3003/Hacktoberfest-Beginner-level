@@ -1,4 +1,3 @@
-## ⭐ Star this repository if you really like this approach of encouraging first-time-contributors :)
 
 ![Hacktoberfest](hack.png)
 
