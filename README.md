@@ -1,5 +1,4 @@
 
-![Hacktoberfest](hack.png)
 
 *This logo image is designed by [UsefulHunter](https://github.com/UsefulHunter) with HTML code -- Code is under HTML folder of this repository*
 
