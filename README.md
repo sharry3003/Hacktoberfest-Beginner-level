@@ -1,6 +1,6 @@
 
 
-*This logo image is designed by [UsefulHunter](https://github.com/UsefulHunter) with HTML code -- Code is under HTML folder of this repository*
+*This logo image is designed by [UsefulHunter](https://github.com/UsefulHunter) with HTML code -- Code is under HTML folder of this *
 
 Hey there! This is a beginner-friendly repository to help first-time-contributors with their cntrobutions in the open source community. 
 
